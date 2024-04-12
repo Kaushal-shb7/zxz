@@ -8,7 +8,7 @@ import { Helmet } from 'react-helmet';
   
   
   
-  export default function 1920pxPage(){
+  export default function pxPage(){
 
     
 
